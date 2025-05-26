@@ -1,3 +1,5 @@
+Library Management System (PyQt5 + Python)
+
 A simple desktop application for managing a book library, built using PyQt5 and core Python OOP principles. This app allows users to add books (including eBooks with download sizes), view available books, and manage a virtual library with ease.
 
 🚀 Features
